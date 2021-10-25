@@ -7,4 +7,5 @@ oppure diverse tipologie di prodotti. -->
 <?php
     require_once 'Products.php';
     require_once 'Warehouse.php';
+    require_once 'Clients.php';
 ?>
