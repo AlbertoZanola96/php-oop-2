@@ -1,6 +1,7 @@
 <?php
     require_once 'Products.php'; 
     
+    
     class Warehouse extends Products {
         public $quantity;
 
